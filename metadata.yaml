@@ -1,0 +1,29 @@
+_repo: Common-names-of-a-selected-list-of-plants-b-Technical-Bulletin-117_71408
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Anderson, Kling L.
+    gutenberg_agent_id: '56217'
+    url: http://www.gutenberg.org/2009/agents/56217
+  - agent_name: Owensby, Clenton E.
+    gutenberg_agent_id: '56218'
+    url: http://www.gutenberg.org/2009/agents/56218
+description: ''
+gutenberg_issued: '2023-08-15'
+identifiers:
+  gutenberg: '71408'
+language: en
+pgterms:marc905: 20191203163620anderson
+pgterms:marc906: '1969'
+pgterms:marc907: US
+production_note: Carol Brown, Stephen Hutcheson and the Online Distributed Proofreading
+  Team at https://www.pgdp.net
+publication_note: '  $aUnited States :$bKansas State University of Agriculture and
+  Applied Science, Agricultural Experiment Station, $c1969.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Common names of a selected list of plants : $b Technical Bulletin 117'
+url: http://www.gutenberg.org/ebooks/71408
