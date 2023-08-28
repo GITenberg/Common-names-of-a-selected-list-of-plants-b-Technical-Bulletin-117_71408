@@ -1,5 +1,8 @@
 _repo: Common-names-of-a-selected-list-of-plants-b-Technical-Bulletin-117_71408
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 71408-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Anderson, Kling L.
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '56218'
     url: http://www.gutenberg.org/2009/agents/56218
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71408#Common-names-of-a-selected-list-of-plants-b-Technical-Bulletin-117
 gutenberg_issued: '2023-08-15'
 identifiers:
   gutenberg: '71408'
